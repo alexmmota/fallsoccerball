@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2796959e758ece04c9c69d1dfc04b54d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - particleGold: {instanceID: 0}
+  - particleSilver: {instanceID: 0}
+  - particleBronze: {instanceID: 0}
+  - particleRed: {instanceID: 0}
+  - particleYellow: {instanceID: 0}
+  - particleBlue: {instanceID: 0}
+  - mais1: {fileID: 400000, guid: 7a36991a3ff803c46bb88d10d07c5947, type: 2}
+  - mais2: {fileID: 400000, guid: 532167793202e4a47b75dc310a164798, type: 2}
+  - mais3: {fileID: 400000, guid: 3fddda99aaf516f4fa1e9df8983e367a, type: 2}
+  - mais4: {fileID: 400000, guid: b0e20b29adeca4a4d8b3c45e26131354, type: 2}
+  - mais5: {fileID: 400000, guid: 1bb6434b5eba7da40a850b91afe77039, type: 2}
+  - mais6: {fileID: 493658, guid: 0e1a45071521342ebae6eb45114e6f0b, type: 2}
+  - mais7: {fileID: 441600, guid: 452b94a90a34149d492196667329afe0, type: 2}
+  - mais8: {fileID: 446462, guid: 0f7ae42d8fb4344bdb4fcc556b341f44, type: 2}
+  - mais9: {fileID: 495800, guid: 0e1a8e8a8d1a648d593ce76584c6e73d, type: 2}
+  - menos1: {instanceID: 0}
+  - menos2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
